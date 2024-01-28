@@ -192,35 +192,35 @@ body{
 
 
 
-.comprar .botao-plataforma .plataformas li:nth-child(1){
+.comprar .botao-plataforma .plataformas a:nth-child(1){
     border: 1px solid #00439c;
 }
-.comprar .botao-plataforma .plataformas li:nth-child(1):hover{
+.comprar .botao-plataforma .plataformas a:nth-child(1):hover{
     background-color: #00439c;
 }
 
-.comprar .botao-plataforma .plataformas li:nth-child(2){
+.comprar .botao-plataforma .plataformas a:nth-child(2){
     border: 1px solid #315b92;
 }
-.comprar .botao-plataforma .plataformas li:nth-child(2):hover{
+.comprar .botao-plataforma .plataformas a:nth-child(2):hover{
     background-color: #315b92;
 }
-.comprar .botao-plataforma .plataformas li:nth-child(3){
+.comprar .botao-plataforma .plataformas a:nth-child(3){
     border: 1px solid #387a26;
 }
-.comprar .botao-plataforma .plataformas li:nth-child(3):hover{
+.comprar .botao-plataforma .plataformas a:nth-child(3):hover{
     background-color: #387a26;
 }
-.comprar .botao-plataforma .plataformas li:nth-child(4){
+.comprar .botao-plataforma .plataformas a:nth-child(4){
     border: 1px solid #9b0707;
 }
-.comprar .botao-plataforma .plataformas li:nth-child(4):hover{
+.comprar .botao-plataforma .plataformas a:nth-child(4):hover{
     background: #9b0707;
 }
-.comprar .botao-plataforma .plataformas li:nth-child(5){
+.comprar .botao-plataforma .plataformas a:nth-child(5){
     border: 1px solid #b8dd15;
 }
-.comprar .botao-plataforma .plataformas li:nth-child(5):hover{
+.comprar .botao-plataforma .plataformas a:nth-child(5):hover{
     background: #b8dd15;
 }
 
