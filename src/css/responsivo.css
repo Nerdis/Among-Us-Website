@@ -1,0 +1,28 @@
+@media (max-width: 639px){
+    .cabecalho{
+        justify-content: center;
+        flex-direction: column;
+        padding: 50px 0;
+    }
+
+    .home .informacoes{
+        padding: 30px;
+        max-width: 400px;
+    }
+
+    .home .informacoes .titulo{
+        font-size: 40px;
+    }
+    
+    .comprar .informacoes h3{
+        font-size: 40px;
+    }
+}
+@media (max-width: 669px){
+    .home .informacoes{
+        padding: 30px;
+        max-width: 400px;
+    }
+
+    
+}
